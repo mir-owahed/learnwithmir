@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'mir-owahed', // Usually your GitHub org/user name.
   projectName: 'learnhwithmir', // Usually your repo name.
   deploymentBranch: "gh-pages", // Deployment branch for GitHub Pages
 
